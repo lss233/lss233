@@ -1,27 +1,17 @@
-### Hi there 👋
- 僕わLss233 ✨ です。  
- 
- <div align="center">
-	<br>
-	<br>
-	<br>
-	<br>
-	<img src="https://enterprise.github.com/assets/spinners/octocat-spinner-128-26a44333917854c6794d55eac947b1277fced54f1f60c5df5d93431db8753bc5.gif" width="40" height="40">
-	<p>Loading</p>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
 
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lss233&show_icons=true" />
+
+  
  > 🚧 WARNING: This user is using poor English.
 - 🌱 I'm a student, currently learning 🎨 and ✒.
 - 👯 Looking to collaborate on [Phoenix Framework](https://github.com/ThePhoenixMC/PhoenixAPI).  
 - 📫 You can contact me by email if you need to.
 - 🤔 I'm trying to be a fullstack developer, but ... for what?
 
-
 #### 😋 Favorites
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lss233&layout=compact" />  
+
 * Vue
 * Laravel
 * ExpressJS
