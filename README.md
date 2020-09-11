@@ -1,16 +1,13 @@
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lss233&show_icons=true" />
-
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lss233&layout=compact" />  
   
  > 🚧 WARNING: This user is using poor English.
 - 🌱 I'm a student, currently learning 🎨 and ✒.
 - 👯 Looking to collaborate on [Phoenix Framework](https://github.com/ThePhoenixMC/PhoenixAPI).  
 - 📫 You can contact me by email if you need to.
-- 🤔 I'm trying to be a fullstack developer, but ... for what?
+- 🤔 I'm trying to be a fullstack developer.
 
 #### 😋 Favorites
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lss233&layout=compact" />  
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lss233&show_icons=true" />
 
 * Vue
 * Laravel
